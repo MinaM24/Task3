@@ -1,0 +1,11 @@
+﻿proqram FINDING THE POWER
+
+READ a
+
+IF a>=10000 and a<100000 THEN
+	to find the power of the first and last digits sum (12345>>>(1+5)^2)
+ELSE 
+	SHOW "5 reqemli deyil"
+ENDIF
+
+end program

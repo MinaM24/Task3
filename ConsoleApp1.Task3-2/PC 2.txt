@@ -1,0 +1,11 @@
+﻿proqram FINDING THE SUM 
+
+READ a
+
+IF a>=100000 and a<1000000 THEN
+	to find the sum of the first 3 digits (123456>>>1+2+3)
+ELSE 
+	SHOW "6 reqemli deyil"
+ENDIF
+
+end program
